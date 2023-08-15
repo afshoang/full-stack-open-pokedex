@@ -8,7 +8,7 @@ ESLint: A highly configurable linting tool for JavaScript and JSX. It has a wide
 - Testing:
 
 Jest: A popular testing framework for JavaScript projects. It provides a simple and powerful API for writing unit tests, along with built-in features like test runners, assertions, and mocks.
-
+ 
 - Building:
 Webpack: A powerful and highly configurable module bundler. It can handle complex dependencies, code splitting, and asset management, making it a versatile tool for building modern JavaScript applications.
 
